@@ -1,0 +1,234 @@
+Afghanistan	8
+Albania	6
+Algeria	8 
+American Samoa	8 
+Andorra	6
+Angola	8
+Anguilla	3
+Antigua	3 
+Argentina	4 
+Armenia	8
+Australia	8
+Austria	6
+Azerbaijan	8
+Bahamas	3
+Bahrain	8
+Bangladesh	8
+Barbados	3
+Belarus	6
+Belgium	6
+Belize	3 
+Benin	8 
+Bermuda	3 
+Bhutan	8
+Bolivia	4
+Bonaire	1 
+Bosnia and Herzegovina	6
+Botswana	8
+Brazil	4
+Brunei	8 
+Bulgaria	6 
+Burkina Faso	8
+Burundi	8
+Cambodia	8 
+Cameroon	8 
+Canada	4
+Canary Islands, The	6
+Cape Verde	8
+Cayman Islands	3
+Central African Republic	8
+Chad	8
+Chile	4 
+China, People's Republic	7 
+Colombia	2
+Comoros	8
+Congo	8
+Congo, Democratic Republic Of	8 
+Cook Islands	8
+Costa Rica	4 
+Cote d'Ivoire	8
+Croatia	6
+Cuba	4
+Curacao	1
+Cyprus	8
+Czech Republic, The	6
+Denmark	6
+Djibouti	8
+Dominica	3
+Dominican Republic	2
+Ecuador	2
+Egypt	8
+El Salvador	4
+Eritrea	8
+Estonia	6 
+Ethiopia	8
+Falkland Islands	4
+Faroe Islands	6
+Fiji	8
+Finland	6 
+France	6
+French Guyana	3 
+Gabon	8 
+Gambia	8
+Georgia	6
+Germany	6
+Ghana	8
+Gibraltar	8
+Greece	6 
+Greenland	4
+Grenada	3
+Guadeloupe	3 
+Guam	8 
+Guatemala	4
+Guernsey	6
+Guinea Republic	8 
+Guinea-Bissau	8
+Guinea-Equatorial	8
+Guyana (British)	3 
+Haiti	2 
+Honduras	4
+Hong Kong	7
+Hungary	6 
+Iceland	6 
+India	7 
+Indonesia	7
+Iran (Islamic Republic Of)	8 
+Iraq	8
+Ireland, Republic Of	6
+Israel	8
+Italy	6
+Jamaica	2 
+Japan	7 
+Jersey	6
+Jordan	8
+Kazakhstan	8 
+Kenya	8
+Kiribati	8
+South Korea	2 
+North Korea	7
+Kosovo	6
+Kuwait	8
+Kyrgyzstan	8
+Lao Peoples Democratic Republic	8
+Latvia	6  
+Lebanon	8
+Lesotho	8
+Liberia	8
+Libya	8
+Liechtenstein	6
+Lithuania	6 
+Luxembourg	6
+Macau	8 
+Macedonia, Republic of	6
+Madagascar	8 
+Malawi	8
+Malaysia	7
+Maldives	8
+Mali	8
+Malta	6  
+Marshall Islands	8
+Martinique	3 
+Mauritania	8
+Mauritius	8
+Mayotte	8
+Mexico	4 
+Micronesia, Federated States of	8
+Moldova, Republic of	6
+Monaco	6
+Mongolia	8
+Montenegro, Republic of	6 
+Montserrat	3
+Morocco	8
+Mozambique	8  
+Myanmar	8 
+Namibia	8  
+Nauru, Republic of	8
+Nepal	8 
+Netherlands, The	5
+Nevis	3 
+New Caledonia	8
+New Zealand	8
+Nicaragua	4
+Niger	8
+Nigeria	8 
+Niue	8
+Northern Mariana Island	8
+Norway	6 
+Oman	8
+Pakistan	8
+Palau	8
+Panama	2
+Papua New Guinea	8
+Paraguay	4
+Peru	4
+Philippines, The	8
+Poland	6
+Portugal	6
+Puerto Rico	4
+Qatar	8
+Reunion, Island Of	6 
+Romania	6
+Russian Federation, The	6
+Rwanda	8
+Samoa	8
+San Marino	6
+Sao Tome and Principe	8
+Saudi Arabia	8
+Senegal	8
+Serbia, Republic of	6
+Seychelles	8
+Sierra Leone	8 
+Singapore	7
+Slovakia	6
+Slovenia	6
+Solomon Islands	8
+Somalia	8
+Somaliland, Rep Of (North Somalia)	8
+South Africa	8
+South Sudan	8
+Spain	6
+Sri Lanka	8
+St. Barthelemy	3 
+St. Eustatius	1
+St. Helena	8
+St. Kitts	3 
+St. Lucia	3
+St. Maarten	1
+St. Vincent	3
+Sudan	8
+Suriname	1
+Swaziland	8
+Sweden	6
+Switzerland	6
+Syria	8
+Tahiti	8
+Taiwan	7
+Tajikistan	8
+Tanzania	8  
+Thailand	7
+Timor-Leste	8
+Togo	8
+Tonga	8
+Trinidad and Tobago	3
+Tunisia	8 
+Turkey	8 
+Turkmenistan	8
+Turks And Caicos Islands	3 
+Tuvalu	8
+Uganda	8  
+Ukraine	6
+United Arab Emirates	8
+United Kingdom	6
+Uruguay	4
+USA - Miami Area	3
+USA - Rest of	4
+Uzbekistan	8
+Vanuatu	8
+Vatican	6 
+Venezuela	2
+Vietnam	8  
+Virgin Islands (British)	3
+Virgin Islands (US)	4
+Yemen, Republic Of	8
+Zambia	8
+Zimbabwe	8

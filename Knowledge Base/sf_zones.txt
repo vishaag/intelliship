@@ -1,0 +1,19 @@
+Malaysia	1
+Hong Kong	2
+Macau	2
+Taiwan	2
+Thailand	2
+Vietnam	2
+Mainland China	3
+China	3
+South Korea	3
+Japan	4
+Australia	5
+United States of America	6
+Mexico	6
+Canada	6
+Mongolia	7
+Indonesia	8
+Cambodia	8
+Myanmar	8
+India	9

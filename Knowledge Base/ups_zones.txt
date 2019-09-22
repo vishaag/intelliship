@@ -1,0 +1,52 @@
+Argentina	9
+Australia	3
+Austria	8
+Bahrain	8
+Belgium	6
+Brazil	9
+Bulgaria	8
+Canada	5
+Chile	9
+China Excluding China South	3
+China	3
+China South	10
+Colombia	9
+Costa Rica	9
+Croatia	9
+Czech Republic	8
+Denmark	7
+Dominican Republic	9
+Ecuador	9
+Egypt	9
+El Salvador	9
+Estonia	8
+Aland Island Finland	7
+Finland	7
+France	6
+Germany	6
+Heligoland Germany	6
+Greece	8
+Mount
+Athos Greece	8
+Guatemala	9
+Guernsey Channel Islands	7
+Haiti	9
+Honduras	9
+Hong Kong	2
+Hungary	8
+India	2
+Indonesia	3
+Ireland
+Republic of	8
+Israel	7
+Campione/Lake Lugano Italy	6
+Italy	6
+Japan	4
+Jersey Channel Islands	7
+Kazakhstan	7
+Kenya	8
+South Korea	3
+Kuwait	7
+Latvia	8
+Liechtenstein	7
+Lithuania	8
