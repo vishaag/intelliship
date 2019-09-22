@@ -25,7 +25,7 @@ We will use DHL, UPS, Fedex and SF Express as example. We will configure their s
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-
+[Demo Video](https://youtu.be/DLyNaq7eSQc)
 [![Demo Video](https://github.com/vishaag/intelliship/blob/master/Miscelleneous/Capture.PNG)](https://youtu.be/DLyNaq7eSQc)
 
 ---
