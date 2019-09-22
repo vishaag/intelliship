@@ -1,0 +1,6 @@
+{
+  "alias": "intelliship-pro-store",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
