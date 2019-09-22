@@ -1,0 +1,25 @@
+{
+  "name": "intelliship-server",
+  "version": "0.0.1",
+  "description": "Server for the intelliship app with multiple endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "latest",
+    "express-cors": "latest",
+    "body-parser": "latest"
+
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
