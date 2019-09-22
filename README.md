@@ -19,8 +19,8 @@ We will use DHL, UPS, Fedex and SF Express as example. We will configure their s
 | :------------ |:---------------:|:------------ |:---------------:| 
 | Chan Kan Hei | A0198512Y | Project idea, Case Study Documentation, System Flow Design, Project Report, Testing | e0402053@u.nus.edu |
 | GuoXiang | A0198533U | Project idea, Implementation of Drools Rules Engine and Decision Table, Testing | guo_xiang@u.nus.edu |
-| Srikar Namburu | A0198490N |Project idea, Data scraping for Decision table, Front end UI, Testing | e0402031@u.nus.edu |
-| Vishaag Suriyanarayanan | A0198504X | Project idea, Front end UI, Back end server, User Guide, Testing | e0402045@u.nus.edu |
+| Srikar Namburu | A0198490N |Project idea, Data scraping for Decision table, Frontend UI (React), Testing | e0402031@u.nus.edu |
+| Vishaag Suriyanarayanan | A0198504X | Project idea, Frontend UI (React), Backend Server (Node.js), User Guide, Testing | e0402045@u.nus.edu |
 
 
 ---
