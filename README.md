@@ -7,8 +7,10 @@
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY
-Intelliship Pro Store is a demo store that allows you to place orders for items and find the most efficient
-way to pack so that you can minimize your shipping costs!
+In the past few years, e-commerce and online shopping have become more and more popular. In some markets, it even becomes an essential part of daily lives. A lot of small and medium size merchants have emerged to capture the business opportunities. While setting up an online store is easier now because of the mature platforms like Woocommerce and Shopify, there are still many challenges for small and medium sized online merchants. One of them is pack and shipping.<br>
+Packing and shipping is particularly hard to handle because different merchants will have different types, sizes and combinations of products. Packing problem refers to how to pack the ordered goods in the basket in order to minimize volume, which in turns minimizes shipping cost. Shipping problem refers how to find the cheapest available option for customer to minimize their shipping cost and thus induces more sales.<br>
+In this project we interviewed several online merchants who sell internationally. We understand their current challenges and designed this smart shipping options generator and cost calculator.<br>
+We will use DHL, UPS, Fedex and SF Express as example. We will configure their shipping rates into the system, where our rules-engine will find the optimal shipping rates based on the weight and destinations. We also leverage third party library for the packing optimization problem in order to minimize shipping cost.
 
 ---
 ## SECTION 3 : PROJECT CONTRIBUTION
@@ -24,15 +26,15 @@ way to pack so that you can minimize your shipping costs!
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Demo Video](https://github.com/SrikarNamburu/intelliship-pro-store/blob/master/Miscelleneous/Capture.PNG)](https://youtu.be/DLyNaq7eSQc)
+[![Demo Video](https://github.com/vishaag/intelliship/blob/master/Miscelleneous/Capture.PNG)](https://youtu.be/DLyNaq7eSQc)
 
 ---
 ## SECTION 5 : USER GUIDE
 
-[View Intelliship User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20Assist%20User%20Guide.pdf)
+[View Intelliship User Guide](https://github.com/vishaag/intelliship/blob/master/User%20Guide/IntellishipUserGuide.pdf)
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-[View Project Report](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20Report/SIA%20Assist%20-%20Project%20Report.pdf)
+[View Project Report](https://github.com/vishaag/intelliship/blob/master/Project%20Report/Project%20Report.pdf)
 
  
