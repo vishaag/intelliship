@@ -1,7 +1,7 @@
 ## SECTION 1 : PROJECT TITLE
-### EasyReq
+### Intelliship
 
-<p align="center"> <img src="logo.jpeg" width="200" height="200"
+<p align="center"> <img src="Miscelleneous/logo_transparent.png" width="200" height="200"
      style="float: left; margin-right: 0px; " ></p>
 
 
